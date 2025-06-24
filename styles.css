@@ -1,0 +1,12 @@
+/* Make sidebar sticky */
+.sidebar {
+  position: sticky;
+  top: 20px;
+}
+
+/* Style your photo */
+.sidebar img {
+  border-radius: 50%;
+  width: 150px;
+  margin-bottom: 10px;
+}
